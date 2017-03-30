@@ -1,10 +1,7 @@
 <?php
 /**
- * Template Name: Template concurs
- * Created by PhpStorm.
- * User: me664
- * Date: 2/28/15
- * Time: 10:48 PM
+ * Template Name: Template concurs0
+
  */
 
 get_header();

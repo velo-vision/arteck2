@@ -1,9 +1,6 @@
 <?php
 	/**
-	 * Created by PhpStorm.
-	 * User: me664
-	 * Date: 12/20/15
-	 * Time: 10:25 PM
+	 * Created by Velosoft.
 	 */
 ?>
 <!-- bootFolio content  -->
@@ -40,17 +37,40 @@
 						<div class="portfolio-work-detail">
 							<h3 class="titulo-cat"><?php the_title();?></h3>
 						<!-- <div class="subtitulo-gal"><?php the_excerpt();?></div> -->
-							<div class="col-sm-12 col-md-12 col-lg-12 sepracion-personalizada">
-								<div class="col-sm-4 col-md-1 col-lg-2 sinpadding gorditas">
-									<span>Año: </span><?php echo the_field("ano"); ?>
-								</div>
-								<div class="col-sm-4 col-md-8 col-lg-6 gorditas">
-									<span>Ubicación: </span><?php echo the_field("ubicacion"); ?>
-								</div>
-								<div class="col-sm-4 col-md-2 col-lg-2 gorditas">
-									<span>Status: </span><?php echo the_field("status"); ?>
-								</div>
-							</div>
+						
+							<?php 
+		
+									foreach ( $terms as $key => $value ) {										
+										//echo esc_attr( $value->term_id );
+										if(esc_attr( $value->term_id ) == 35){ ?>
+											<div class="col-sm-12 col-md-12 col-lg-12 sepracion-personalizada" style="display:none;">
+												<div class="col-sm-4 col-md-1 col-lg-2 sinpadding gorditas">
+													<span>Año: </span><?php echo the_field("ano"); ?>
+												</div>
+												<div class="col-sm-4 col-md-8 col-lg-6 gorditas">
+													<span>Ubicación: </span><?php echo the_field("ubicacion"); ?>
+												</div>
+												<div class="col-sm-4 col-md-2 col-lg-2 gorditas">
+													<span>Status: </span><?php echo the_field("status"); ?>
+												</div>
+											</div>
+
+										<?php }elseif (esc_attr( $value->term_id ) == 34) {?>
+												<div class="col-sm-12 col-md-12 col-lg-12 sepracion-personalizada">
+												<div class="col-sm-4 col-md-1 col-lg-2 sinpadding gorditas">
+													<span>Año: </span><?php echo the_field("ano"); ?>
+												</div>
+												<div class="col-sm-4 col-md-8 col-lg-6 gorditas">
+													<span>Ubicación: </span><?php echo the_field("ubicacion"); ?>
+												</div>
+												<div class="col-sm-4 col-md-2 col-lg-2 gorditas">
+													<span>Status: </span><?php echo the_field("status"); ?>
+												</div>
+											</div>
+									<?php	}
+									
+								} 
+							?>
 						</div>
 						<div class="portfolio-work-nav">
 							<a class="popup-window-close-trigger"><i class="fa fa-th"></i></a>

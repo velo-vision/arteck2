@@ -212,6 +212,10 @@ input[type=text], input[type=email], textarea {
 .img-size-service{
     width: 60px;
 }
+.img-size-service1{
+  width: 103px;
+  height: 103px;
+}
 .ocultar{
     display: none !important;
 }
