@@ -1,0 +1,9 @@
+/*
+Theme Name:     Bs Smarty
+Template:       <br />
+<b>Notice</b>:  Undefined variable: parent_template_name in <b>/Applications/XAMPP/xamppfiles/htdocs/bravo/smarty_new/wp-content/plugins/one-click-child-theme/templates/rtl-css.php</b> on line <b>3</b><br />
+
+
+Right to Left text support.
+*/
+@import url("../twentyfifteen/rtl.css");

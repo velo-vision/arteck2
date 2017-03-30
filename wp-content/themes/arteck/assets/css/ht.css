@@ -1,0 +1,68 @@
+.container .container {
+    width :100% !important;
+    padding :0px!important;
+
+    }
+.section-content .section-content {
+    padding :0px!important;
+    }
+
+.sidebar-widget ul{
+    list-style: none;
+    }
+
+.sidebar-widget ul li{
+    color: #959595;
+    padding: 15px 0px;
+    }
+.sidebar-widget ul li ul li{
+    padding: 15px 0px;
+    }
+.sidebar-widget ul li a {
+    text-decoration: none;
+    position: relative;
+    color: #898989;
+    overflow: hidden;
+    border-bottom: 1px rgba(255, 255, 255, 0.05) solid;
+    display: block;
+    text-align: left;
+    }
+.sidebar-widget select  ,.sidebar-widget input[type='text']{
+    background-color: #ebebeb;
+    padding: 8px 35px 8px 10px;
+    font-size: 14px;
+    font-style: italic;
+    border: none;
+    }
+
+/*.page-numbers .next ,.page-numbers .prev{
+    background-color: #ebebeb;
+    color: #959595;
+    }*/
+.page-numbers a ,.page-numbers span{
+    position: relative;
+    display: inline-block;
+    padding: 8px 10px;
+    color: #898989;
+    margin: 4px 1px;
+    text-decoration: none;
+    font-size: 14px;;
+    border-radius:5px;
+
+    }
+.page-numbers .current{
+    font-weight: bold;
+    color: #fff;
+    border: none;
+    padding: 8px 10px;
+    background-color: #01bab0;
+}
+
+.portfolio-item-cat a {
+    color : #fff!important;
+    }
+.portfolio-item-cat.ht_blue a {
+    color : #01bab0 !important;
+    } .portfolio-item-cat.ht_898989 a {
+         color : #898989!important;
+         }

@@ -1,0 +1,1724 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Smarty\n"
+"POT-Creation-Date: 2016-03-29 00:09+0700\n"
+"PO-Revision-Date: 2016-03-29 00:09+0700\n"
+"Last-Translator: \n"
+"Language-Team: Bravo Team\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: assets/js/pace.min.js:1
+msgid "socket"
+msgstr ""
+
+#: 404.php:25
+msgid "Oops! That page can\"t be found."
+msgstr ""
+
+#: 404.php:37
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: bravo_app/configs/author-meta.php:11 bravo_app/configs/author-meta.php:12
+msgid "Facebook URL"
+msgstr ""
+
+#: bravo_app/configs/author-meta.php:16 bravo_app/configs/author-meta.php:17
+msgid "Twitter URL"
+msgstr ""
+
+#: bravo_app/configs/author-meta.php:21 bravo_app/configs/author-meta.php:22
+msgid "Dribble URL"
+msgstr ""
+
+#: bravo_app/configs/author-meta.php:26 bravo_app/configs/author-meta.php:27
+msgid "Google Plus URL"
+msgstr ""
+
+#: bravo_app/configs/author-meta.php:31 bravo_app/configs/author-meta.php:32
+msgid "LinkedIn URL"
+msgstr ""
+
+#: bravo_app/configs/config.php:64
+msgid "Primary Navigation"
+msgstr ""
+
+#: bravo_app/configs/config.php:76
+msgid "Blog Sidebar"
+msgstr ""
+
+#: bravo_app/configs/config.php:78
+msgid "Widgets in this area will be shown on all blog page."
+msgstr ""
+
+#: bravo_app/configs/theme-options.php:21
+msgid "General Options"
+msgstr ""
+
+#: bravo_app/configs/theme-options.php:25
+msgid "Preload Options"
+msgstr ""
+
+#: bravo_app/configs/theme-options.php:29
+msgid "Menu Options"
+msgstr ""
+
+#: bravo_app/configs/theme-options.php:33
+msgid "Posts Options"
+msgstr ""
+
+#: bravo_app/configs/theme-options.php:37
+#: bravo_app/configs/theme-options.php:361
+#: bravo_app/configs/theme-options.php:362
+msgid "Testimonials"
+msgstr ""
+
+#: bravo_app/configs/theme-options.php:41
+msgid "Styling Options"
+msgstr ""
+
+#: bravo_app/configs/theme-options.php:49
+msgid "Enable Dark Version?"
+msgstr ""
+
+#: bravo_app/configs/theme-options.php:50
+msgid "This allow you to choose Dark version"
+msgstr ""
+
+#: bravo_app/configs/theme-options.php:57
+msgid "Favicon"
+msgstr ""
+
+#: bravo_app/configs/theme-options.php:58
+msgid "This allow you to change favicon of your website"
+msgstr ""
+
+#: bravo_app/configs/theme-options.php:65 header.php:99
+msgid "Logo"
+msgstr ""
+
+#: bravo_app/configs/theme-options.php:66
+#: bravo_app/configs/theme-options.php:133
+msgid "This allow you to change logo"
+msgstr ""
+
+#: bravo_app/configs/theme-options.php:74
+msgid "Logo Retina"
+msgstr ""
+
+#: bravo_app/configs/theme-options.php:75
+msgid ""
+"Note: You MUST re-name Logo Retina to logo-name@2x.ext-name. Example:<br>\n"
+"                                    Logo is: <em>my-logo.jpg</em><br>Logo "
+"Retina must be: <em>my-logo@2x.jpg</em>  "
+msgstr ""
+
+#: bravo_app/configs/theme-options.php:83
+msgid "Social option"
+msgstr ""
+
+#: bravo_app/configs/theme-options.php:91
+msgid "Social List"
+msgstr ""
+
+#: bravo_app/configs/theme-options.php:98
+#: bravo_app/elements/bravo-service-carousel.php:48
+#: bravo_app/elements/bravo-service-item.php:42
+msgid "Icon"
+msgstr ""
+
+#: bravo_app/configs/theme-options.php:103
+msgid "Url"
+msgstr ""
+
+#: bravo_app/configs/theme-options.php:110
+msgid "Footer option"
+msgstr ""
+
+#: bravo_app/configs/theme-options.php:116
+msgid "Footer Copyright"
+msgstr ""
+
+#: bravo_app/configs/theme-options.php:124
+msgid "Enable Preload"
+msgstr ""
+
+#: bravo_app/configs/theme-options.php:125
+msgid "This allow you to turn on or off <em>Preload Effect</em>"
+msgstr ""
+
+#: bravo_app/configs/theme-options.php:132
+msgid "Logo Preload"
+msgstr ""
+
+#: bravo_app/configs/theme-options.php:141
+msgid "Background Preload"
+msgstr ""
+
+#: bravo_app/configs/theme-options.php:142
+msgid "This allow you to change background image"
+msgstr ""
+
+#: bravo_app/configs/theme-options.php:149
+msgid "Preload Copy Right"
+msgstr ""
+
+#: bravo_app/configs/theme-options.php:161 bravo_app/models/post.php:128
+msgid "Menu Position"
+msgstr ""
+
+#: bravo_app/configs/theme-options.php:165
+msgid "Menus Left"
+msgstr ""
+
+#: bravo_app/configs/theme-options.php:169
+msgid "Menus Right"
+msgstr ""
+
+#: bravo_app/configs/theme-options.php:177
+#: bravo_app/configs/theme-options.php:178
+msgid "Menu Background"
+msgstr ""
+
+#: bravo_app/configs/theme-options.php:185
+#: bravo_app/configs/theme-options.php:186
+msgid "Menu Typo"
+msgstr ""
+
+#: bravo_app/configs/theme-options.php:193
+#: bravo_app/configs/theme-options.php:194
+msgid "Menu copyright text"
+msgstr ""
+
+#: bravo_app/configs/theme-options.php:204
+msgid "Main Color"
+msgstr ""
+
+#: bravo_app/configs/theme-options.php:205
+msgid "Choose your own main color"
+msgstr ""
+
+#: bravo_app/configs/theme-options.php:212
+#: bravo_app/configs/theme-options.php:213
+msgid "Google Fonts"
+msgstr ""
+
+#: bravo_app/configs/theme-options.php:219
+#: bravo_app/configs/theme-options.php:220
+msgid "Typography"
+msgstr ""
+
+#: bravo_app/configs/theme-options.php:227
+#: bravo_app/configs/theme-options.php:228
+msgid "Heading Font"
+msgstr ""
+
+#: bravo_app/configs/theme-options.php:235
+#: bravo_app/configs/theme-options.php:236
+msgid "Custom CSS"
+msgstr ""
+
+#: bravo_app/configs/theme-options.php:244
+msgid "Blog Options"
+msgstr ""
+
+#: bravo_app/configs/theme-options.php:250
+msgid "Blog page title"
+msgstr ""
+
+#: bravo_app/configs/theme-options.php:257
+msgid "Blog page description"
+msgstr ""
+
+#: bravo_app/configs/theme-options.php:264
+#: bravo_app/configs/theme-options.php:265
+msgid "Blog page background image"
+msgstr ""
+
+#: bravo_app/configs/theme-options.php:272 bravo_app/elements/posts.php:18
+msgid "Blog type view"
+msgstr ""
+
+#: bravo_app/configs/theme-options.php:278 bravo_app/elements/posts.php:24
+msgid "Standart"
+msgstr ""
+
+#: bravo_app/configs/theme-options.php:282
+msgid "Grid"
+msgstr ""
+
+#: bravo_app/configs/theme-options.php:286 bravo_app/elements/posts.php:23
+msgid "Mansory"
+msgstr ""
+
+#: bravo_app/configs/theme-options.php:292
+#: bravo_app/configs/theme-options.php:326 bravo_app/models/post.php:153
+msgid "Sidebar Position"
+msgstr ""
+
+#: bravo_app/configs/theme-options.php:298
+#: bravo_app/configs/theme-options.php:332 bravo_app/models/post.php:163
+msgid "No Sidebar"
+msgstr ""
+
+#: bravo_app/configs/theme-options.php:302
+#: bravo_app/configs/theme-options.php:336 bravo_app/models/post.php:167
+msgid "Sidebar Left"
+msgstr ""
+
+#: bravo_app/configs/theme-options.php:306
+#: bravo_app/configs/theme-options.php:340 bravo_app/models/post.php:171
+msgid "Sidebar Right"
+msgstr ""
+
+#: bravo_app/configs/theme-options.php:312
+#: bravo_app/configs/theme-options.php:346
+msgid "Widget Area Selection"
+msgstr ""
+
+#: bravo_app/configs/theme-options.php:319
+msgid "Post Options"
+msgstr ""
+
+#: bravo_app/configs/theme-options.php:353
+msgid "Except content length"
+msgstr ""
+
+#: bravo_app/configs/theme-options.php:354
+msgid "Left empty for default"
+msgstr ""
+
+#: bravo_app/configs/theme-options.php:368
+msgid "Company name"
+msgstr ""
+
+#: bravo_app/configs/theme-options.php:373
+#: bravo_app/elements/bravo-member.php:20 bravo_app/elements/bravo-team.php:64
+msgid "Avatar"
+msgstr ""
+
+#: bravo_app/configs/theme-options.php:378
+#: bravo_app/elements/bravo-animate.php:47
+#: bravo_app/elements/bravo-member.php:48
+#: bravo_app/elements/bravo-quote.php:38
+#: bravo_app/elements/bravo-service-carousel.php:61
+#: bravo_app/elements/bravo-service-item.php:53
+#: bravo_app/elements/bravo-team.php:88 bravo_app/elements/counter-up.php:33
+#: bravo_app/elements/intro-item.php:50
+msgid "Content"
+msgstr ""
+
+#: bravo_app/elements/blog-carousel.php:12
+msgid "Bravo Blog Carousel"
+msgstr ""
+
+#: bravo_app/elements/blog-carousel.php:18
+#: bravo_app/elements/bravo-service-carousel.php:54
+#: bravo_app/elements/bravo-service-item.php:36
+msgid "Title"
+msgstr ""
+
+#: bravo_app/elements/blog-carousel.php:25
+#: bravo_app/elements/portfolio-gird.php:18
+#: bravo_app/elements/portfolio-masonry.php:18 bravo_app/elements/posts.php:30
+msgid "Number post"
+msgstr ""
+
+#: bravo_app/elements/blog-carousel.php:28
+#: bravo_app/elements/portfolio-gird.php:21
+#: bravo_app/elements/portfolio-masonry.php:21 bravo_app/elements/posts.php:33
+msgid "Post number"
+msgstr ""
+
+#: bravo_app/elements/blog-carousel.php:33
+msgid "Post per row"
+msgstr ""
+
+#: bravo_app/elements/blog-carousel.php:38
+msgid "Number of post per row"
+msgstr ""
+
+#: bravo_app/elements/blog-carousel.php:44
+#: bravo_app/elements/portfolio-gird.php:26
+#: bravo_app/elements/portfolio-masonry.php:26 bravo_app/elements/posts.php:39
+msgid "Category"
+msgstr ""
+
+#: bravo_app/elements/blog-carousel.php:50
+#: bravo_app/elements/blog-carousel.php:56
+#: bravo_app/elements/portfolio-gird.php:44
+#: bravo_app/elements/portfolio-gird.php:50
+#: bravo_app/elements/portfolio-masonry.php:44
+#: bravo_app/elements/portfolio-masonry.php:50 bravo_app/elements/posts.php:47
+#: bravo_app/elements/posts.php:53
+msgid "Order"
+msgstr ""
+
+#: bravo_app/elements/blog-carousel.php:53
+#: bravo_app/elements/portfolio-gird.php:47
+#: bravo_app/elements/portfolio-masonry.php:47 bravo_app/elements/posts.php:50
+msgid "Asc"
+msgstr ""
+
+#: bravo_app/elements/blog-carousel.php:54
+#: bravo_app/elements/portfolio-gird.php:48
+#: bravo_app/elements/portfolio-masonry.php:48 bravo_app/elements/posts.php:51
+msgid "Desc"
+msgstr ""
+
+#: bravo_app/elements/blog-carousel.php:60
+#: bravo_app/elements/blog-carousel.php:63
+#: bravo_app/elements/portfolio-gird.php:54
+#: bravo_app/elements/portfolio-gird.php:57
+#: bravo_app/elements/portfolio-masonry.php:54
+#: bravo_app/elements/portfolio-masonry.php:57 bravo_app/elements/posts.php:57
+#: bravo_app/elements/posts.php:60
+msgid "Order By"
+msgstr ""
+
+#: bravo_app/elements/blog-carousel.php:67 bravo_app/elements/posts.php:64
+msgid "Post IDs"
+msgstr ""
+
+#: bravo_app/elements/blog-carousel.php:69 bravo_app/elements/posts.php:66
+msgid "Specific post id, separate by commas"
+msgstr ""
+
+#: bravo_app/elements/blog-carousel.php:73
+msgid "Button Action"
+msgstr ""
+
+#: bravo_app/elements/blog-carousel.php:76
+msgid "Open Popup"
+msgstr ""
+
+#: bravo_app/elements/blog-carousel.php:77
+msgid "Go To Detail"
+msgstr ""
+
+#: bravo_app/elements/bravo-animate.php:27
+msgid "Bravo Animate "
+msgstr ""
+
+#: bravo_app/elements/bravo-animate.php:34
+msgid "Animation Name"
+msgstr ""
+
+#: bravo_app/elements/bravo-animate.php:40
+msgid "Delay in millisecond"
+msgstr ""
+
+#: bravo_app/elements/bravo-button.php:28
+msgid "Bravo Button"
+msgstr ""
+
+#: bravo_app/elements/bravo-button.php:35 bravo_app/helpers/general.php:40
+msgid "Text"
+msgstr ""
+
+#: bravo_app/elements/bravo-button.php:41
+msgid "URL"
+msgstr ""
+
+#: bravo_app/elements/bravo-button.php:47
+msgid "Size"
+msgstr ""
+
+#: bravo_app/elements/bravo-button.php:51
+msgid "Normal"
+msgstr ""
+
+#: bravo_app/elements/bravo-button.php:52
+msgid "Big"
+msgstr ""
+
+#: bravo_app/elements/bravo-button.php:57
+msgid "Effect Name"
+msgstr ""
+
+#: bravo_app/elements/bravo-member.php:11
+msgid "Bravo Member Profile"
+msgstr ""
+
+#: bravo_app/elements/bravo-member.php:28 bravo_app/elements/counter-up.php:28
+#: bravo_app/elements/skill.php:20 comments.php:67
+msgid "Name"
+msgstr ""
+
+#: bravo_app/elements/bravo-member.php:35 bravo_app/elements/bravo-team.php:48
+msgid "Job"
+msgstr ""
+
+#: bravo_app/elements/bravo-member.php:42 bravo_app/elements/bravo-team.php:54
+msgid "Social"
+msgstr ""
+
+#: bravo_app/elements/bravo-partner-carousel.php:27
+msgid "Bravo Partner Carousel"
+msgstr ""
+
+#: bravo_app/elements/bravo-partner-carousel.php:34
+#: bravo_app/elements/bravo-service-carousel.php:26
+msgid "Autoplay"
+msgstr ""
+
+#: bravo_app/elements/bravo-partner-carousel.php:35
+#: bravo_app/elements/bravo-service-carousel.php:27
+msgid "Set to 0 for disable auto play "
+msgstr ""
+
+#: bravo_app/elements/bravo-partner-carousel.php:40
+#: bravo_app/elements/bravo-service-carousel.php:32
+msgid "Item per row"
+msgstr ""
+
+#: bravo_app/elements/bravo-partner-carousel.php:46
+msgid "Partner Logos"
+msgstr ""
+
+#: bravo_app/elements/bravo-popup-gmap.php:10
+msgid "Bravo Popup Map"
+msgstr ""
+
+#: bravo_app/elements/bravo-popup-gmap.php:21
+msgid "Popup ID"
+msgstr ""
+
+#: bravo_app/elements/bravo-popup-gmap.php:30
+msgid "Popup Title"
+msgstr ""
+
+#: bravo_app/elements/bravo-popup-gmap.php:38
+msgid "Latitude"
+msgstr ""
+
+#: bravo_app/elements/bravo-popup-gmap.php:41
+msgid ""
+"Latitude, you can get it from  <a target='_blank' href='http://www.latlong."
+"net/convert-address-to-lat-long.html'>here</a>"
+msgstr ""
+
+#: bravo_app/elements/bravo-popup-gmap.php:48
+#: bravo_app/elements/bravo-popup-gmap.php:51
+msgid "Longitude"
+msgstr ""
+
+#: bravo_app/elements/bravo-popup-gmap.php:59
+msgid "Zoom"
+msgstr ""
+
+#: bravo_app/elements/bravo-popup-gmap.php:67
+#: bravo_app/elements/bravo-popup-gmap.php:70
+msgid "Custom Marker Icon"
+msgstr ""
+
+#: bravo_app/elements/bravo-popup-gmap.php:75
+msgid "Custom Height"
+msgstr ""
+
+#: bravo_app/elements/bravo-quote.php:25
+msgid "Bravo Quote"
+msgstr ""
+
+#: bravo_app/elements/bravo-quote.php:32 bravo_app/elements/bravo-team.php:42
+#: bravo_app/helpers/general.php:260 content.php:42
+msgid "Author"
+msgstr ""
+
+#: bravo_app/elements/bravo-service-carousel.php:11
+msgid "Bravo Service Slide"
+msgstr ""
+
+#: bravo_app/elements/bravo-service-carousel.php:20
+msgid "Extra class name"
+msgstr ""
+
+#: bravo_app/elements/bravo-service-carousel.php:22
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: bravo_app/elements/bravo-service-carousel.php:40
+#: bravo_app/elements/bravo-service-item.php:29
+msgid "Bravo Service Item"
+msgstr ""
+
+#: bravo_app/elements/bravo-service-item.php:48
+#: bravo_app/elements/intro-item.php:35
+msgid "Button"
+msgstr ""
+
+#: bravo_app/elements/bravo-team.php:35
+msgid "Bravo Team "
+msgstr ""
+
+#: bravo_app/elements/bravo-team.php:59
+msgid "Email Address"
+msgstr ""
+
+#: bravo_app/elements/bravo-team.php:69
+msgid "Other Team Members"
+msgstr ""
+
+#: bravo_app/elements/bravo-team.php:74
+msgid "Show Send Resume Button?"
+msgstr ""
+
+#: bravo_app/elements/bravo-team.php:79
+msgid "Resume Form Code"
+msgstr ""
+
+#: bravo_app/elements/counter-up.php:10
+msgid "Bravo Counter Up"
+msgstr ""
+
+#: bravo_app/elements/counter-up.php:21
+msgid "Number"
+msgstr ""
+
+#: bravo_app/elements/intro-item.php:27
+msgid "Bravo Intro"
+msgstr ""
+
+#: bravo_app/elements/intro-item.php:40
+msgid "Choose Version"
+msgstr ""
+
+#: bravo_app/elements/intro-item.php:43
+msgid "Light"
+msgstr ""
+
+#: bravo_app/elements/intro-item.php:44
+msgid "Dark"
+msgstr ""
+
+#: bravo_app/elements/portfolio-gird.php:12
+msgid "Bravo Portfolio Gird"
+msgstr ""
+
+#: bravo_app/elements/portfolio-gird.php:32
+#: bravo_app/elements/portfolio-masonry.php:32
+msgid "Select type view"
+msgstr ""
+
+#: bravo_app/elements/portfolio-gird.php:35
+msgid "Gird v1"
+msgstr ""
+
+#: bravo_app/elements/portfolio-gird.php:36
+msgid "Gird v2"
+msgstr ""
+
+#: bravo_app/elements/portfolio-gird.php:37
+msgid "Gird v3"
+msgstr ""
+
+#: bravo_app/elements/portfolio-gird.php:38
+msgid "Gird v4"
+msgstr ""
+
+#: bravo_app/elements/portfolio-gird.php:39
+msgid "Gird v5"
+msgstr ""
+
+#: bravo_app/elements/portfolio-gird.php:61
+#: bravo_app/elements/portfolio-masonry.php:61
+msgid "Portfolio IDs"
+msgstr ""
+
+#: bravo_app/elements/portfolio-gird.php:63
+#: bravo_app/elements/portfolio-masonry.php:63
+msgid "Specific portfolio id, separate by commas"
+msgstr ""
+
+#: bravo_app/elements/portfolio-masonry.php:12
+msgid "Bravo Portfolio Masonry"
+msgstr ""
+
+#: bravo_app/elements/portfolio-masonry.php:35
+msgid "One Page"
+msgstr ""
+
+#: bravo_app/elements/portfolio-masonry.php:36
+msgid "Mansory v1"
+msgstr ""
+
+#: bravo_app/elements/portfolio-masonry.php:37
+msgid "Mansory v2"
+msgstr ""
+
+#: bravo_app/elements/portfolio-masonry.php:38
+msgid "Mansory v3"
+msgstr ""
+
+#: bravo_app/elements/portfolio-masonry.php:39
+msgid "Mansory v4"
+msgstr ""
+
+#: bravo_app/elements/posts.php:12
+msgid "Bravo Posts"
+msgstr ""
+
+#: bravo_app/elements/posts.php:21
+msgid "Gird"
+msgstr ""
+
+#: bravo_app/elements/posts.php:22
+msgid "Gird 2"
+msgstr ""
+
+#: bravo_app/elements/skill.php:10
+msgid "Bravo Skill"
+msgstr ""
+
+#: bravo_app/elements/skill.php:27
+msgid "Percent"
+msgstr ""
+
+#: bravo_app/helpers/general.php:14 bravo_app/helpers/general.php:302
+msgid "--Select--"
+msgstr ""
+
+#: bravo_app/helpers/general.php:44
+msgid "Textarea"
+msgstr ""
+
+#: bravo_app/helpers/general.php:48
+#: bravo_templates/elements/post/popup-single-blog.php:52
+msgid "Date"
+msgstr ""
+
+#: bravo_app/helpers/general.php:52
+msgid "Colorpicker"
+msgstr ""
+
+#: bravo_app/helpers/general.php:56
+msgid "On/Off"
+msgstr ""
+
+#: bravo_app/helpers/general.php:70
+#: bravo_templates/elements/blog-carousel.php:33
+#: bravo_templates/elements/blog-carousel.php:35
+#: bravo_templates/elements/post/standart-post.php:29
+msgid "Read More"
+msgstr ""
+
+#: bravo_app/helpers/general.php:74
+msgid "By"
+msgstr ""
+
+#: bravo_app/helpers/general.php:79
+#, php-format
+msgid "%d Views"
+msgstr ""
+
+#: bravo_app/helpers/general.php:81
+#, php-format
+msgid "%d View"
+msgstr ""
+
+#: bravo_app/helpers/general.php:170
+msgid "Comment navigation"
+msgstr ""
+
+#: bravo_app/helpers/general.php:173
+msgid "Older Comments"
+msgstr ""
+
+#: bravo_app/helpers/general.php:177
+msgid "Newer Comments"
+msgstr ""
+
+#: bravo_app/helpers/general.php:213 bravo_app/helpers/general.php:229
+msgid "Home"
+msgstr ""
+
+#: bravo_app/helpers/general.php:221
+msgid "404 Page"
+msgstr ""
+
+#: bravo_app/helpers/general.php:230
+msgid "Blog"
+msgstr ""
+
+#: bravo_app/helpers/general.php:258
+msgid "None"
+msgstr ""
+
+#: bravo_app/helpers/general.php:259
+msgid "Post ID"
+msgstr ""
+
+#: bravo_app/helpers/general.php:261
+msgid "Post Title"
+msgstr ""
+
+#: bravo_app/helpers/general.php:262
+msgid "Post Name"
+msgstr ""
+
+#: bravo_app/helpers/general.php:263
+msgid "Post Date"
+msgstr ""
+
+#: bravo_app/helpers/general.php:264
+msgid "Last Modified Date"
+msgstr ""
+
+#: bravo_app/helpers/general.php:265
+msgid "Post Parent"
+msgstr ""
+
+#: bravo_app/helpers/general.php:266
+msgid "Random"
+msgstr ""
+
+#: bravo_app/helpers/general.php:267
+msgid "Comment Count"
+msgstr ""
+
+#: bravo_app/helpers/general.php:513 bravo_app/helpers/post.php:107
+msgid "All Categories"
+msgstr ""
+
+#: bravo_app/helpers/general.php:533 bravo_app/helpers/general.php:582
+#: bravo_app/models/post.php:134 bravo_app/models/post.php:159
+msgid "-- Select --"
+msgstr ""
+
+#: bravo_app/helpers/general.php:622
+msgid "&laquo; Previous"
+msgstr ""
+
+#: bravo_app/helpers/general.php:623
+msgid "Next &raquo;"
+msgstr ""
+
+#: bravo_app/helpers/general.php:708
+msgid "&hellip;"
+msgstr ""
+
+#: bravo_app/helpers/post.php:54
+msgid "<i class=\"fa fa-angle-left\"></i>"
+msgstr ""
+
+#: bravo_app/helpers/post.php:55
+msgid "<i class=\"fa fa-angle-right\"></i>"
+msgstr ""
+
+#: bravo_app/helpers/post.php:67
+msgid "Previous Page"
+msgstr ""
+
+#: bravo_app/helpers/post.php:75
+msgid "Next Page"
+msgstr ""
+
+#: bravo_app/libraries/BFI_Thumb.php:120
+msgid ""
+"The server does not have ImageMagick or GD installed and/or enabled! Any of "
+"these libraries are required for WordPress to be able to resize images. "
+"Please contact your server administrator to enable this before continuing."
+msgstr ""
+
+#: bravo_app/libraries/BFI_Thumb.php:235
+msgid "Image rotate failed."
+msgstr ""
+
+#: bravo_app/libraries/BFI_Thumb.php:257
+msgid "Image opacity change failed."
+msgstr ""
+
+#: bravo_app/libraries/BFI_Thumb.php:335
+msgid "Image color change failed."
+msgstr ""
+
+#: bravo_app/libraries/BFI_Thumb.php:351
+msgid "Image grayscale failed."
+msgstr ""
+
+#: bravo_app/libraries/BFI_Thumb.php:367
+msgid "Image negate failed."
+msgstr ""
+
+#: bravo_app/libraries/importer.php:34
+msgid "You do not have permission to do this"
+msgstr ""
+
+#: bravo_app/libraries/importer.php:41
+msgid "Importer Class Was Not Installed"
+msgstr ""
+
+#: bravo_app/libraries/importer.php:83
+msgid ""
+"<span class='red'>Plugin: Option Tree must be installed first. Stop working!"
+"</span>"
+msgstr ""
+
+#: bravo_app/libraries/importer.php:93
+msgid "Importing the demo theme options... <span>DONE!</span><br>"
+msgstr ""
+
+#: bravo_app/libraries/importer.php:100
+msgid ""
+"<span class='red'>File: theme_options.json contain NULL content. Stop "
+"working!</span>"
+msgstr ""
+
+#: bravo_app/libraries/importer.php:109
+#, php-format
+msgid ""
+"<span class='red'>Can not read theme_options.json<br>File:%s<br>. Stop "
+"working!</span>"
+msgstr ""
+
+#: bravo_app/libraries/importer.php:130
+msgid "Importing the demo widgets... <span>DONE!</span>.<br>"
+msgstr ""
+
+#: bravo_app/libraries/importer.php:149
+msgid "<span class='red'>File Not Found. Stop working!</span>"
+msgstr ""
+
+#: bravo_app/libraries/importer.php:170
+#, php-format
+msgid "Importing data: %s  of %d ... <span>DONE!</span><br>"
+msgstr ""
+
+#: bravo_app/libraries/importer.php:198
+msgid "Importing menu settings ... <span>DONE!</span><br>"
+msgstr ""
+
+#: bravo_app/libraries/importer.php:224
+msgid ""
+"Setting reading options... <span>DONE!</span><br/><span>All Done! Have Fun</"
+"span>"
+msgstr ""
+
+#: bravo_app/libraries/required_plugins.php:44
+#: bravo_app/libraries/tgm/class-tgm-plugin-activation.php:331
+msgid "Install Required Plugins"
+msgstr ""
+
+#: bravo_app/libraries/required_plugins.php:45
+#: bravo_app/libraries/tgm/class-tgm-plugin-activation.php:332
+msgid "Install Plugins"
+msgstr ""
+
+#: bravo_app/libraries/required_plugins.php:46
+#: bravo_app/libraries/tgm/class-tgm-plugin-activation.php:333
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: bravo_app/libraries/required_plugins.php:47
+#: bravo_app/libraries/tgm/class-tgm-plugin-activation.php:335
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: bravo_app/libraries/required_plugins.php:58
+#: bravo_app/libraries/tgm/class-tgm-plugin-activation.php:381
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: bravo_app/libraries/required_plugins.php:59
+#: bravo_app/libraries/tgm/class-tgm-plugin-activation.php:383
+#: bravo_app/libraries/tgm/class-tgm-plugin-activation.php:3171
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: bravo_app/libraries/required_plugins.php:60
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: bravo_app/libraries/tgm/class-tgm-plugin-activation.php:334
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: bravo_app/libraries/tgm/class-tgm-plugin-activation.php:382
+msgid "Return to the dashboard"
+msgstr ""
+
+#: bravo_app/libraries/tgm/class-tgm-plugin-activation.php:384
+#: bravo_app/libraries/tgm/class-tgm-plugin-activation.php:2974
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: bravo_app/libraries/tgm/class-tgm-plugin-activation.php:385
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: bravo_app/libraries/tgm/class-tgm-plugin-activation.php:386
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: bravo_app/libraries/tgm/class-tgm-plugin-activation.php:387
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: bravo_app/libraries/tgm/class-tgm-plugin-activation.php:388
+msgid "Dismiss this notice"
+msgstr ""
+
+#: bravo_app/libraries/tgm/class-tgm-plugin-activation.php:389
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: bravo_app/libraries/tgm/class-tgm-plugin-activation.php:390
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: bravo_app/libraries/tgm/class-tgm-plugin-activation.php:2303
+msgid "Required"
+msgstr ""
+
+#: bravo_app/libraries/tgm/class-tgm-plugin-activation.php:2306
+msgid "Recommended"
+msgstr ""
+
+#: bravo_app/libraries/tgm/class-tgm-plugin-activation.php:2322
+msgid "WordPress Repository"
+msgstr ""
+
+#: bravo_app/libraries/tgm/class-tgm-plugin-activation.php:2325
+msgid "External Source"
+msgstr ""
+
+#: bravo_app/libraries/tgm/class-tgm-plugin-activation.php:2328
+msgid "Pre-Packaged"
+msgstr ""
+
+#: bravo_app/libraries/tgm/class-tgm-plugin-activation.php:2345
+msgid "Not Installed"
+msgstr ""
+
+#: bravo_app/libraries/tgm/class-tgm-plugin-activation.php:2349
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: bravo_app/libraries/tgm/class-tgm-plugin-activation.php:2351
+msgid "Active"
+msgstr ""
+
+#: bravo_app/libraries/tgm/class-tgm-plugin-activation.php:2357
+msgid "Required Update not Available"
+msgstr ""
+
+#: bravo_app/libraries/tgm/class-tgm-plugin-activation.php:2360
+msgid "Requires Update"
+msgstr ""
+
+#: bravo_app/libraries/tgm/class-tgm-plugin-activation.php:2363
+msgid "Update recommended"
+msgstr ""
+
+#: bravo_app/libraries/tgm/class-tgm-plugin-activation.php:2419
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: bravo_app/libraries/tgm/class-tgm-plugin-activation.php:2422
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: bravo_app/libraries/tgm/class-tgm-plugin-activation.php:2425
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: bravo_app/libraries/tgm/class-tgm-plugin-activation.php:2515
+msgid "Installed version:"
+msgstr ""
+
+#: bravo_app/libraries/tgm/class-tgm-plugin-activation.php:2523
+msgid "Minimum required version:"
+msgstr ""
+
+#: bravo_app/libraries/tgm/class-tgm-plugin-activation.php:2535
+msgid "Available version:"
+msgstr ""
+
+#: bravo_app/libraries/tgm/class-tgm-plugin-activation.php:2558
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: bravo_app/libraries/tgm/class-tgm-plugin-activation.php:2572
+msgid "Plugin"
+msgstr ""
+
+#: bravo_app/libraries/tgm/class-tgm-plugin-activation.php:2573
+msgid "Source"
+msgstr ""
+
+#: bravo_app/libraries/tgm/class-tgm-plugin-activation.php:2574
+msgid "Type"
+msgstr ""
+
+#: bravo_app/libraries/tgm/class-tgm-plugin-activation.php:2578
+msgid "Version"
+msgstr ""
+
+#: bravo_app/libraries/tgm/class-tgm-plugin-activation.php:2579
+msgid "Status"
+msgstr ""
+
+#: bravo_app/libraries/tgm/class-tgm-plugin-activation.php:2739
+msgid "Install"
+msgstr ""
+
+#: bravo_app/libraries/tgm/class-tgm-plugin-activation.php:2745
+msgid "Update"
+msgstr ""
+
+#: bravo_app/libraries/tgm/class-tgm-plugin-activation.php:2748
+msgid "Activate"
+msgstr ""
+
+#: bravo_app/libraries/tgm/class-tgm-plugin-activation.php:2779
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: bravo_app/libraries/tgm/class-tgm-plugin-activation.php:2781
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: bravo_app/libraries/tgm/class-tgm-plugin-activation.php:2822
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: bravo_app/libraries/tgm/class-tgm-plugin-activation.php:2824
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: bravo_app/libraries/tgm/class-tgm-plugin-activation.php:3170
+msgid "Plugin activation failed."
+msgstr ""
+
+#: bravo_app/libraries/tgm/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: bravo_app/libraries/tgm/class-tgm-plugin-activation.php:3511
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: bravo_app/libraries/tgm/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: bravo_app/libraries/tgm/class-tgm-plugin-activation.php:3516
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: bravo_app/libraries/tgm/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: bravo_app/libraries/tgm/class-tgm-plugin-activation.php:3518
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: bravo_app/libraries/tgm/class-tgm-plugin-activation.php:3519
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: bravo_app/libraries/tgm/class-tgm-plugin-activation.php:3522
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: bravo_app/libraries/tgm/class-tgm-plugin-activation.php:3524
+msgid "All installations have been completed."
+msgstr ""
+
+#: bravo_app/libraries/tgm/class-tgm-plugin-activation.php:3525
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: bravo_app/models/general.php:73
+msgid "Add social"
+msgstr ""
+
+#: bravo_app/models/general.php:99
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: bravo_app/models/general.php:258
+msgid "Loading ...."
+msgstr ""
+
+#: bravo_app/models/general.php:259
+#: bravo_templates/elements/portfolio/portfolio_masonry_view_2.php:161
+#: bravo_templates/elements/portfolio/portfolio_masonry_view_3.php:162
+#: bravo_templates/elements/portfolio/portfolio_masonry_view_4.php:163
+#: bravo_templates/elements/portfolio/portfolio_masonry_view_5.php:160
+#: bravo_templates/elements/post/mansory.php:32
+msgid "Load More"
+msgstr ""
+
+#: bravo_app/models/general.php:261
+msgid "No More"
+msgstr ""
+
+#: bravo_app/models/general.php:401
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: bravo_app/models/layout.php:29
+msgid "Layout Options"
+msgstr ""
+
+#: bravo_app/models/layout.php:36
+msgid "Header Content"
+msgstr ""
+
+#: bravo_app/models/layout.php:55 bravo_app/models/layout.php:57
+msgid "Layouts"
+msgstr ""
+
+#: bravo_app/models/layout.php:56 bravo_app/models/layout.php:58
+msgid "Layout"
+msgstr ""
+
+#: bravo_app/models/layout.php:59 bravo_app/models/portfolio.php:30
+msgid "Add New"
+msgstr ""
+
+#: bravo_app/models/layout.php:60
+msgid "Add New Layout"
+msgstr ""
+
+#: bravo_app/models/layout.php:61
+msgid "New Layout"
+msgstr ""
+
+#: bravo_app/models/layout.php:62
+msgid "Edit Layout"
+msgstr ""
+
+#: bravo_app/models/layout.php:63
+msgid "View Layout"
+msgstr ""
+
+#: bravo_app/models/layout.php:64
+msgid "All Layouts"
+msgstr ""
+
+#: bravo_app/models/layout.php:65
+msgid "Search Layouts"
+msgstr ""
+
+#: bravo_app/models/layout.php:66
+msgid "Parent Layout:"
+msgstr ""
+
+#: bravo_app/models/layout.php:67
+msgid "No Layouts found."
+msgstr ""
+
+#: bravo_app/models/layout.php:68
+msgid "No Layouts found in Trash."
+msgstr ""
+
+#: bravo_app/models/page.php:86
+msgid "Hide Overlay"
+msgstr ""
+
+#: bravo_app/models/page.php:87
+msgid "Show Overlay"
+msgstr ""
+
+#: bravo_app/models/page.php:89
+msgid "Bravo Parallax"
+msgstr ""
+
+#: bravo_app/models/page.php:94
+msgid "Overlay Background Color"
+msgstr ""
+
+#: bravo_app/models/page.php:99
+msgid "Custom Overlay Image"
+msgstr ""
+
+#: bravo_app/models/portfolio.php:26 bravo_app/models/portfolio.php:28
+msgid "Portfolios"
+msgstr ""
+
+#: bravo_app/models/portfolio.php:27 bravo_app/models/portfolio.php:29
+msgid "Portfolio"
+msgstr ""
+
+#: bravo_app/models/portfolio.php:31
+msgid "Add New Portfolio"
+msgstr ""
+
+#: bravo_app/models/portfolio.php:32
+msgid "New Portfolio"
+msgstr ""
+
+#: bravo_app/models/portfolio.php:33
+msgid "Edit Portfolio"
+msgstr ""
+
+#: bravo_app/models/portfolio.php:34
+msgid "View Portfolio"
+msgstr ""
+
+#: bravo_app/models/portfolio.php:35
+msgid "All Portfolios"
+msgstr ""
+
+#: bravo_app/models/portfolio.php:36
+msgid "Search Portfolios"
+msgstr ""
+
+#: bravo_app/models/portfolio.php:37
+msgid "Parent Portfolios:"
+msgstr ""
+
+#: bravo_app/models/portfolio.php:38
+msgid "No Portfolios found."
+msgstr ""
+
+#: bravo_app/models/portfolio.php:39
+msgid "No Portfolios found in Trash."
+msgstr ""
+
+#: bravo_app/models/portfolio.php:61
+msgid "Portfolio Categories"
+msgstr ""
+
+#: bravo_app/models/portfolio.php:62 bravo_app/models/portfolio.php:71
+msgid "Portfolio Category"
+msgstr ""
+
+#: bravo_app/models/portfolio.php:63
+msgid "Search Portfolio Categories"
+msgstr ""
+
+#: bravo_app/models/portfolio.php:64
+msgid "All Portfolio Categories"
+msgstr ""
+
+#: bravo_app/models/portfolio.php:65
+msgid "Parent Portfolio Category"
+msgstr ""
+
+#: bravo_app/models/portfolio.php:66
+msgid "Parent Portfolio Category:"
+msgstr ""
+
+#: bravo_app/models/portfolio.php:67
+msgid "Edit Portfolio Category"
+msgstr ""
+
+#: bravo_app/models/portfolio.php:68
+msgid "Update Portfolio Category"
+msgstr ""
+
+#: bravo_app/models/portfolio.php:69
+msgid "Add New Portfolio Category"
+msgstr ""
+
+#: bravo_app/models/portfolio.php:70
+msgid "New Portfolio Category Name"
+msgstr ""
+
+#: bravo_app/models/portfolio.php:91
+msgid "Portfolio Gallery"
+msgstr ""
+
+#: bravo_app/models/portfolio.php:98 bravo_app/models/post.php:61
+#: bravo_app/models/post.php:62
+msgid "Gallery"
+msgstr ""
+
+#: bravo_app/models/portfolio.php:104
+msgid "Masonry Sub-title"
+msgstr ""
+
+#: bravo_app/models/portfolio.php:105 bravo_app/models/portfolio.php:111
+msgid "Use in Portfolio Masonry Style"
+msgstr ""
+
+#: bravo_app/models/portfolio.php:110
+msgid "Masonry Item Width"
+msgstr ""
+
+#: bravo_app/models/portfolio.php:116
+msgid "Wide"
+msgstr ""
+
+#: bravo_app/models/portfolio.php:120
+msgid "Medium"
+msgstr ""
+
+#: bravo_app/models/portfolio.php:124
+msgid "Small"
+msgstr ""
+
+#: bravo_app/models/post.php:54
+msgid "Post Information"
+msgstr ""
+
+#: bravo_app/models/post.php:68
+msgid "Media URL"
+msgstr ""
+
+#: bravo_app/models/post.php:69
+msgid ""
+"You can use Youtube and Vimeo URL, also sounclound for audio post format"
+msgstr ""
+
+#: bravo_app/models/post.php:75
+msgid "Media selfhost"
+msgstr ""
+
+#: bravo_app/models/post.php:76
+msgid "You can upload video or audio file"
+msgstr ""
+
+#: bravo_app/models/post.php:82
+msgid "Quote Content"
+msgstr ""
+
+#: bravo_app/models/post.php:83
+msgid "Only use for Quote Format"
+msgstr ""
+
+#: bravo_app/models/post.php:88
+msgid "Link"
+msgstr ""
+
+#: bravo_app/models/post.php:89
+msgid "Only use for Link Format"
+msgstr ""
+
+#: bravo_app/models/post.php:94
+msgid "Author Name"
+msgstr ""
+
+#: bravo_app/models/post.php:95
+msgid "Only use for Link and Quote Format"
+msgstr ""
+
+#: bravo_app/models/post.php:116
+msgid "Other Options"
+msgstr ""
+
+#: bravo_app/models/post.php:123
+msgid "Background Image"
+msgstr ""
+
+#: bravo_app/models/post.php:138
+msgid "Menu Left"
+msgstr ""
+
+#: bravo_app/models/post.php:142
+msgid "Menu Right"
+msgstr ""
+
+#: bravo_app/models/post.php:147
+msgid "Menu ID"
+msgstr ""
+
+#: bravo_app/models/post.php:176
+msgid "Sidebar ID"
+msgstr ""
+
+#: bravo_app/widgets/category-widget.php:77
+#: bravo_app/widgets/flick-widget.php:97
+#: bravo_app/widgets/popular-widget.php:78
+#: bravo_app/widgets/testimonial-widget.php:91
+msgid "Title:"
+msgstr ""
+
+#: bravo_app/widgets/flick-widget.php:101
+msgid "Flickr User ID:"
+msgstr ""
+
+#: bravo_app/widgets/flick-widget.php:105
+msgid "Number of Images (1 to 20, default is 9):"
+msgstr ""
+
+#: bravo_app/widgets/popular-widget.php:82
+msgid "Number:"
+msgstr ""
+
+#: bravo_ecommerce/libraries/author-meta.php:40
+msgid "Extra Profile Information"
+msgstr ""
+
+#: bravo_ecommerce/libraries/optiontree.php:131
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: bravo_ecommerce/libraries/optiontree.php:135
+#, php-format
+msgid "for %s"
+msgstr ""
+
+#: bravo_templates/elements/bravo_team.php:30 comments.php:80
+msgid "Message"
+msgstr ""
+
+#: bravo_templates/elements/bravo_team.php:67
+msgid "Send your resume"
+msgstr ""
+
+#: bravo_templates/elements/portfolio/portfolio_gird_view_1.php:125
+#: bravo_templates/elements/portfolio/portfolio_gird_view_2.php:79
+#: bravo_templates/elements/portfolio/portfolio_gird_view_3.php:80
+#: bravo_templates/elements/portfolio/portfolio_gird_view_4.php:80
+#: bravo_templates/elements/portfolio/portfolio_gird_view_5.php:80
+#: bravo_templates/elements/portfolio/portfolio_masonry_view_1.php:71
+#: bravo_templates/elements/portfolio/portfolio_masonry_view_2.php:84
+#: bravo_templates/elements/portfolio/portfolio_masonry_view_3.php:86
+#: bravo_templates/elements/portfolio/portfolio_masonry_view_4.php:87
+#: bravo_templates/elements/portfolio/portfolio_masonry_view_5.php:84
+msgid "All"
+msgstr ""
+
+#: bravo_templates/elements/post/content.php:69
+#: bravo_templates/elements/post/format-content.php:22
+#: bravo_templates/posts/content.php:101
+msgid "Your browser does not support the audio element."
+msgstr ""
+
+#: bravo_templates/elements/post/mansory-post.php:18
+#: bravo_templates/elements/post/standart-post.php:13 loop-post.php:19
+#: page.php:51 single-portfolio.php:42 single.php:45
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: bravo_templates/elements/post/mansory-post.php:20
+#: bravo_templates/elements/post/standart-post.php:15 loop-post.php:21
+#: single-portfolio.php:44 single.php:47
+#, php-format
+msgid "In %s"
+msgstr ""
+
+#: bravo_templates/elements/post/mansory-post.php:23
+#: bravo_templates/elements/post/popup-single-blog.php:58
+#: bravo_templates/elements/post/standart-post.php:19 loop-post.php:25
+#: page.php:54 single-portfolio.php:46 single.php:50
+#, php-format
+msgid "Comments: %s"
+msgstr ""
+
+#: bravo_templates/elements/post/mansory-post.php:27
+#: bravo_templates/elements/post/standart-post.php:24 loop-post.php:30
+#: single-portfolio.php:48 single.php:54
+#, php-format
+msgid "Tags: %s"
+msgstr ""
+
+#: bravo_templates/elements/post/popup-single-blog.php:53
+#, php-format
+msgid "Posted By %s"
+msgstr ""
+
+#: bravo_templates/elements/post/popup-single-blog.php:56
+#, php-format
+msgid "Categories %s"
+msgstr ""
+
+#: bravo_templates/elements/post/popup-single-blog.php:61
+#: bravo_templates/elements/post/popup-single-blog.php:86
+msgid "Share:"
+msgstr ""
+
+#: bravo_templates/elements/post/popup-single-blog.php:83
+#, php-format
+msgid "Tags %s"
+msgstr ""
+
+#: bravo_templates/import.php:10
+msgid "One-click Install Demo Content"
+msgstr ""
+
+#: bravo_templates/import.php:22
+msgid "Import Light Version"
+msgstr ""
+
+#: bravo_templates/import.php:23
+msgid "Import Dark Version"
+msgstr ""
+
+#: comments.php:24
+msgid "No comment"
+msgstr ""
+
+#: comments.php:25
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:25
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:47
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:54
+msgid "Write comment"
+msgstr ""
+
+#: comments.php:71 content.php:52
+msgid "Email"
+msgstr ""
+
+#: comments.php:75
+msgid "Website"
+msgstr ""
+
+#: comments.php:86
+msgid "<h2>Leave a comment</h2>"
+msgstr ""
+
+#: comments.php:87
+#, php-format
+msgid "Leave a COMMENT to %s"
+msgstr ""
+
+#: comments.php:88
+msgid "Submit Comment"
+msgstr ""
+
+#: content-page.php:16 content.php:30 page.php:62 single-portfolio.php:55
+#: single.php:61
+msgid "Pages:"
+msgstr ""
+
+#: content-page.php:20 content.php:34 page.php:66 single-portfolio.php:59
+#: single.php:65
+msgid "Page"
+msgstr ""
+
+#: content-page.php:26
+msgid "Edit"
+msgstr ""
+
+#: content.php:15
+msgid "0 Com"
+msgstr ""
+
+#: content.php:15
+msgid "1 COM"
+msgstr ""
+
+#: content.php:25
+#, php-format
+msgid "Continue reading %s"
+msgstr ""
+
+#: content.php:44
+msgid "Category: "
+msgstr ""
+
+#: content.php:49
+msgid "Facebook"
+msgstr ""
+
+#: content.php:50
+msgid "Twitter"
+msgstr ""
+
+#: content.php:51
+msgid "Linkedin"
+msgstr ""
+
+#: content.php:52
+msgid "I wanted you to see this site"
+msgstr ""
+
+#: content.php:52
+msgid "Check out this site"
+msgstr ""
+
+#: content.php:53
+msgid "Google +"
+msgstr ""
+
+#: content.php:68
+msgid "Next:"
+msgstr ""
+
+#: content.php:71
+msgid "Previous:"
+msgstr ""
+
+#: header.php:118
+msgid "Search..."
+msgstr ""
+
+#: header.php:120
+msgid "Send"
+msgstr ""
+
+#: loop-none.php:14
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: loop-none.php:18
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: loop-none.php:23
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: searchform.php:12
+msgid "Type To search"
+msgstr ""
+
+#: searchform.php:13
+msgid "Search"
+msgstr ""
+
+#: share.php:11
+msgid "SHARE ON"
+msgstr ""
