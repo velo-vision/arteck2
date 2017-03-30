@@ -127,7 +127,7 @@ input[type=text], input[type=email], textarea {
 /*/* PROYECTOS */
 
 #all .button, #all .button-big, #all .button-border-light, #all .button-void, .bravo-services-tabs.vc_tta-color-grey.vc_tta-style-classic .vc_tta-tab > a:hover, .bravo-services-tabs.vc_tta-color-grey.vc_tta-style-classic .vc_tta-tab > a:focus, .profile-short:hover .profile-short-job, .main-navigation ul li.current-menu-item> a:after, .main-navigation ul li a:hover:after, input[type=submit], .owl-carousel.top-small-arrows > .owl-controls .owl-next:hover, .owl-carousel.top-small-arrows > .owl-controls .owl-prev:hover, html.csstransforms3d .pace .pace-progress, .main-navigation ul li a:after, #all .list-catgs a:after, .page-numbers .current, #all .button-long:hover {
-    background-color: #fff !important;
+    background-color: #333 !important;
 }
 
 .pagination-next {
